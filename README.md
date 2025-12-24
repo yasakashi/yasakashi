@@ -15,7 +15,12 @@ Experienced Software Developer with over 20 years in designing, developing, and 
 
 ## 💼 Work Experience
 
-### 🔹 Sama Samaneh (2025 – Present)
+### 🔹 Novin (2025 – Percent)
+**Role:** Full Stack Developer  
+**Tools:** C#, SQL Server, Razor, React, API  , Scrum, Agile  
+**Description:**  banking and payment industry
+
+### 🔹 Sama Samaneh (2025 – 2025)
 **Role:** Full Stack Developer  
 **Tools:** C#, SQL Server, Razor  
 **Description:** University system software
